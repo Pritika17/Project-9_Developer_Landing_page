@@ -1,10 +1,12 @@
 # Project 9 Developer Landing Page
+> Mobile Responsive
 
 <br>
 <br>
 <br>
 
 ![Project 9](/project9.png)
+<img src="https://github.com/Pritika17/Project-9_Developer_Landing_page/blob/main/responsive%20video.gif" width="300px"/>
 
 <br>
 <br>
@@ -12,7 +14,7 @@
 
 # Deployed link
 
-[Project 9](https://developer-site-page.netlify.app/ "project link")
+[Project 9](https://developer-web-page-project9.netlify.app/ "project link")
 <br>
 <br>
 <br>
